@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uss/A8E.X3V.B1.20230117.S.E04.PS/App/pps_a8e_test_v36/pps_a8e_test/app/test.cpp
+iostream
+-
+
